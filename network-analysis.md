@@ -177,7 +177,7 @@ Wouldn't it be nice if you could just copy and paste some names in a list into a
 > It is often said that 80% of data analysis is spent on the process of cleaning and preparing the data (Dasu and Johnson 2003). Data preparation is not just a first step, but must be repeated many times over the course of analysis as new problems come to light or new data is collected.
 
 For the names in our collection of letters, we have divided the data into two groups, unstructured and structured:
-* <a href="https://docs.google.com/spreadsheets/d/1cfy1RTjTPrOgUZPAuafl7VUKKC-RyORD4MJDqciEy64/edit?usp=sharing"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. You will be adding to this spreadsheet with letters that you transcribed. <!--more on that process?-->
+* <a href="https://docs.google.com/spreadsheets/d/1cfy1RTjTPrOgUZPAuafl7VUKKC-RyORD4MJDqciEy64/edit?usp=sharing"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. You will be adding to this spreadsheet with letters that you transcribed. 
 * <a href="https://docs.google.com/spreadsheets/d/1LJXj-VJ2F3eOcuAfqeRXAaQraj9iRTC3nw_zkUPd_xo/edit?usp=sharing"> Name tags - Structured.</a> This is what it looks like when you have added another layer of structure to those tags.
 
 Even though these names are structured, we’re not done! We have to check the data for things like inconsistencies, duplicates, and errors! There are a few ways to do that.
@@ -223,7 +223,7 @@ Saving your data to upload will look like this:
 Palladio flags inconsistencies in data, like the use of special characters or multiple observations in one variable (i.e. more than one value in a cell--commas are tricky!). Use Palladio's verification tools, sorting options, and searching option to take another **thorough** look at your data. <!--https://hdlab.stanford.edu/palladio/tutorials/data/-->
 
 Clicking on the little red dots will allow you to verify and look further at your data. 
-<p><img src=https://github.com/hillaryAHR/DLFTeachToolkit3/blob/9900ee0372bdce7eb00ca6f477d0f1631183f1c2/network-analysis-images/flagged-palladio-data.PNG" alt="screenshot showing Palladio's flagged data issues" width="" height="" /></p>
+<p><img src="https://github.com/hillaryAHR/DLFTeachToolkit3/blob/9900ee0372bdce7eb00ca6f477d0f1631183f1c2/network-analysis-images/flagged-palladio-data.PNG" alt="screenshot showing Palladio's flagged data issues" width="" height="" /></p>
 
 This is also an opportunity to evaluate if you need to go back and clean the original spreadsheet! For instance, if you are reviewing the issues, and you find that:
 
