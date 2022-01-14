@@ -177,8 +177,8 @@ Wouldn't it be nice if you could just copy and paste some names in a list into a
 > It is often said that 80% of data analysis is spent on the process of cleaning and preparing the data (Dasu and Johnson 2003). Data preparation is not just a first step, but must be repeated many times over the course of analysis as new problems come to light or new data is collected.
 
 For the names in our collection of letters, we have divided the data into two groups, unstructured and structured:
-* <a href="https://docs.google.com/spreadsheets/d/1cfy1RTjTPrOgUZPAuafl7VUKKC-RyORD4MJDqciEy64/edit?usp=sharing"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. You will be adding to this spreadsheet with letters that you transcribed. 
-* <a href="https://docs.google.com/spreadsheets/d/1LJXj-VJ2F3eOcuAfqeRXAaQraj9iRTC3nw_zkUPd_xo/edit?usp=sharing"> Name tags - Structured.</a> This is what it looks like when you have added another layer of structure to those tags.
+* <a href="https://github.com/hillaryAHR/DLFTeachToolkit3/blob/7efe7cc9948d5546dd2ac1ed8e745be32c5cce33/Names%20Tags_Unstructured-20220110.csv"> Name tags - Unstructured.</a> This is what it looks like when you export the metadata tags you created from Transkribus, and copy and paste them in a sheet together. You will be adding to this spreadsheet with letters that you transcribed. 
+* <a href="https://github.com/hillaryAHR/DLFTeachToolkit3/blob/7efe7cc9948d5546dd2ac1ed8e745be32c5cce33/Name%20tags_Structured_20220110.csv"> Name tags - Structured.</a> This is what it looks like when you have added another layer of structure to those tags.
 
 Even though these names are structured, we’re not done! We have to check the data for things like inconsistencies, duplicates, and errors! There are a few ways to do that.
 
