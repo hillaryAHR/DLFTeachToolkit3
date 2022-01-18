@@ -249,7 +249,7 @@ Eyeball test - Look at the graph you were able to generate with Palladio. What q
  
 An “Eyeball Test” of your visualization is the first step in looking for interesting features in your data. It can be a great way to start answering questions you posed when you collected the data, and can get you started asking more questions about interesting features in your graph. 
  
-Remember that data sets have context and are not without bias! Knowing what you do about this data set, imagine what is missing, or what is left out? Thinking also about your own preconceived notions, what did you notice first? How do you think collection of the material influenced how the data is visualized? (For the sample data set, the <a href="https://athenacommons.muw.edu/smithpapers">contextual information about the collection will help address this.)
+Remember that data sets have context and are not without bias! Knowing what you do about this data set, imagine what is missing, or what is left out? Thinking also about your own preconceived notions, what did you notice first? How do you think collection of the material influenced how the data is visualized? (For the sample data set, the <a href="https://athenacommons.muw.edu/smithpapers">contextual information about the collection</a> will help address this.)
  
 Submit (optional):
 Submit a document with an image file (or several image files) of your network analysis in Palladio, and include a paragraph to explain what's going on in the graph, which should give:
