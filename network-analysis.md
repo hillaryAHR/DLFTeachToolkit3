@@ -174,12 +174,11 @@ For the names in our collection of letters, we have divided the data into two gr
 
 Even though these names are structured, we’re not done! We have to check the data for things like inconsistencies, duplicates, and errors! There are a few ways to do that.
 
-1. Export the Tags metadata from Transkribus. (<a href="https://drive.google.com/file/d/1TbXO2yrcQtWZng4FGCDrHO17T6V22NIq/view"> Watch this in a video here.</a>)
-2. Copy and paste the names of people in the tags as transposed data into the ongoing "Name Tags - Unstructured" sheet, so we have a list of all letters and those who are named. (<a href="https://drive.google.com/file/d/1Oaxu__l8hu0pOwPaEnhIV4q43lCp5-8D/view">Watch this in a video here.</a>):
+1. Copy and paste the names of people in the tags as transposed data into the ongoing "Name Tags - Unstructured" sheet, so we have a list of all letters and those who are named. (<a href="https://drive.google.com/file/d/1Oaxu__l8hu0pOwPaEnhIV4q43lCp5-8D/view">Watch this in a video here.</a>):
      * Highlight the column of names in the sheet of exported tags and copy them
      * In the Unstructured tags sheet, enter the sender and recipient, then paste the names in the first column under person 1. This will look strange at first! But we haven't transposed them yet...
      * Cut this list you just pasted, and then paste them again using the Paste Special > Paste Transposed option. Ta da!
-3. Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>):  
+2. Clean the names **that you can** (<a href="https://drive.google.com/file/d/1oWv-YkLRUZCCWJJBEUw6VZjlUEKtMCJ1/view">Watch this in a video here.</a>):  
      * De-duplicate names that appear more than once, since you just want one representation of that person per letter. (To measure our network, we are not including each time a person is mentioned in a letter...just that they are mentioned at all!)
      * Replace _known_ names with their authority control names (Last name, First name)  or reconcile names that are slightly different (i.e. ```Bro Breland``` and ```Brother Breland```) for consistency. We have identified some people by first name and context, and listed them in <a href="https://github.com/hillaryAHR/DLFTeachToolkit3/blob/ac99fb896402b21bfc9f087eb9e924f2f8e24160/PersonsIdentified_SmithPapers.csv">this CSV.</a>
      * If you don't know them, that's ok! Remember, we aren't trying to erase anyone's name by assuming (see <a href="http://curatingmenus.org/articles/against-cleaning/">"Against Cleaning"</a> again!). Kate and Katherine might not be the same person. We don't know! Embrace the chaos and keep assumptions to a minimum!
