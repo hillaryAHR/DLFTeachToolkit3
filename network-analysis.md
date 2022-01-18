@@ -159,7 +159,7 @@ Say, for instance, though, that we want to see all of the people mentioned in se
 ## Check in
 Restate the research question for the data set at hand, and sketch the model of the data on paper. Example: If we want to see all of the people mentioned in several letters to get a better idea of the network (for the sample data, the network = people in the lives of the Smith family members and their friends), what would our columns and rows look like? What would our data model look like?
 
-For sample data set: We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. What would this look like in a spreadsheet? Sketch this out in pen and paper., and take a picture to submit for this quiz.
+For sample data set: We could structure our data so that each source (the letter writer) has a target (the person they write to and the people they mention), and each target has either a reciprocal (undirected) or non-reciprocal (directed) edge. What would this look like in a spreadsheet? Sketch this out in pen and paper.
 
 
 ## Cleaning Data
