@@ -135,10 +135,10 @@ Degree and Closeness measure influence through connections and paths. Betweennes
 <p><img src="https://github.com/hillaryAHR/DLFTeachToolkit3/blob/9900ee0372bdce7eb00ca6f477d0f1631183f1c2/network-analysis-images/betweenness-def.JPG" alt="example of a simple network that is loosely connected, but bridged together by a node in the center" width="" height="" /></p>
 
 ## Check-in
-* Which is the best way to define centrality?
-* Which is the best way to define degree centrality?
-* Which node has the most closeness centrality?
-* Which is the best way to define betweenness centrality?
+* How would you define centrality in your own words?
+* How would you define degree centrality in your own words?
+* How would you define betweenness centrality in your own words?
+* Draw a simple network with pen and paper that shows nodes with high degree centrality.
 
 # 3. Data Modeling for Visualizing a Network
 
