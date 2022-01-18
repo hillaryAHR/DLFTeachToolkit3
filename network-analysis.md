@@ -9,14 +9,6 @@ We use network analysis to ask questions about the players in the network, like
 * How connected are the things in this network?
 * Are there distinct subgroups or "neighborhoods" in this network?
 
-For the Smith Papers collection, we are asking these questions, more or less! 
-
-| Question | Smith Papers Translation |
-| ------------------------- | --------------------- |
-| Who is the most influential? | Which person wrote the most letters to the most people? |
-| How connected is this network? | Did everyone write letters to each other, or just some people? |
-| What are the distinct groups? | Who wrote to each other most often? |
-
 ## Objectives:
 * Understand how network analyses help answer research questions with quantitative and visual components.
 * Identify parts of a network
