@@ -73,7 +73,7 @@ Practice transcribing a few lines, staying true to the original text with the sa
 
 Compare transcriptions and decide what the ideal transcript would look like.
 
-Fill out your project management tool (using either the template or a chosen app) with the items you have to transcribe, and share the list with your groupmates.
+Fill out your project management tool (using either [the template](https://docs.google.com/spreadsheets/d/1L0EskmqzYTHwwZOxsRCGfEksq9m2i6UXDIha77SNKa4/edit?usp=sharing] or a chosen app) with the items you have to transcribe, and share the list with your groupmates.
 
 # 2. Text Regions in Transkribus
 Before we get started actually transcribing, we have to tell Transkribus what parts of the page have text on them, and what order to read that text! (Remember, computers aren't smart enough to read like humans!) The following is a basic step-by-step for the most common kinds of errors you’ll correct. 
