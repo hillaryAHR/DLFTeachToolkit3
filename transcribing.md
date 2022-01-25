@@ -11,11 +11,11 @@ In this module, you will learn to:
 
 ## Lessons
 
-1. Transcribing Guidelines
-2. Text Regions in Transkribus
-3. Handwritten Text Recognition
-4. Metadata Tags
-5. Exporting Files in Transkribus
+1. [Transcribing Guidelines](#1-transcribing-guidelines)
+2. [Text Regions in Transkribus](#2-text-regions-in-transkribus]
+3. [Handwritten Text Recognition](#3-handwritten-text-recognition)
+4. [Metadata Tags](#4-metadata-tags)
+5. [Exporting Files in Transkribus](#5-exporting-files-in-transkribus)
 
 ## Before you begin:
 Every person has preconceived beliefs that affect how they think and act - this is true for documents created by people a long time ago and for us, reading those documents. Those beliefs, or “bias,”  can sometimes contribute to the misinterpretation of information, and can skew characterizations of the content.  In reading these documents, be aware of potential biases that exist, and your own bias that might come into play as you transcribe and annotate the document with tags.Try to remain objective when assigning tags by following classification standard schedules, and when there’s room for interpretation, to remain as objective as possible to preserve the integrity of the original materials being described.  
@@ -61,10 +61,10 @@ While it is long, we recommend watching [this video](https://youtu.be/-cDD9P0rnL
 ## Remember you’re doing this as a team
 - Use your project management tools to mark your progress and note what you need to go back to later
 
-![screenshot of task in Asana]()
+![screenshot of task in Asana](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/asana-screenshot-make-note.JPG)
 - Communicate with your team what you’ve done and what you need help with through notes and comments. Tag or notify people if something else needs addressing.
 
-![screenshot of Asana](_)
+![screenshot of Asana](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/asana-screenshot-track-progress.JPG)
 - To track your progress, you can create an account, or you can copy this project management template in Google Sheets for your own use.
 ## Check-in
 Practice transcribing a few lines, staying true to the original text with the sample excerpt:
