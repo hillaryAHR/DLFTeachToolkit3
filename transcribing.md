@@ -33,11 +33,9 @@ Every person has preconceived beliefs that affect how they think and act - this 
 ## Installations
 - [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus): Installation Instructions [here](https://readcoop.eu/transkribus/wiki/download-and-installation/). (Be sure you have Java 8 installed before installing Transkribus. This is in the instructions, but not in the first step. If you run into an issue, email your instructor!) Transkribus Lite is the browser-based version of this, but as of this writing is still under development. We recommend downloading the free desktop version of this software.
 - Project management: There are several browser-based options to keep track of your progress and communicate with team members the documents that you are working with. These tools can help keep multiple moving parts of a project in sync like keeping track of supplies, correspondence, and tasks needed to make it to completion:
-    - [Asana](https://asana.com/)
-    - [Trello](https://trello.com/)
-    - [Google Sheets](https://docs.google.com/spreadsheets/d/1L0EskmqzYTHwwZOxsRCGfEksq9m2i6UXDIha77SNKa4/edit?usp=sharing) template for transcribing (make a copy of this template to edit it)
-    
-        Asana is great for organizing and assigning tasks as well as mapping them out in a timeline to track progress and milestones. Trello is a tool that allows you to visualize the tasks and focus needed, through lists and cards, to complete the project. Google Sheets is similar to Excel but allows for collaborative
+    - [Asana](https://asana.com/) - for organizing and assigning tasks as well as mapping them out in a timeline to track progress and milestones.
+    - [Trello](https://trello.com/) - allows you to visualize the tasks and focus needed, through lists and cards, to complete the project
+    - [Google Sheets](https://docs.google.com/spreadsheets/d/1L0EskmqzYTHwwZOxsRCGfEksq9m2i6UXDIha77SNKa4/edit?usp=sharing) template for transcribing (make a copy of this template to edit it) - similar to Asana and Trello in mangaging tasks, but in a spreadsheet format that allows for collaborate editing
 
 # 1. Transcribing Guidelines
 
