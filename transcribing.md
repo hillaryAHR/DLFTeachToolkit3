@@ -12,7 +12,7 @@ In this module, you will learn to:
 ## Lessons
 
 1. [Transcribing Guidelines](#1-transcribing-guidelines)
-2. [Text Regions in Transkribus](#2-text-regions-in-transkribus]
+2. [Text Regions in Transkribus](#2-text-regions-in-transkribus)
 3. [Handwritten Text Recognition](#3-handwritten-text-recognition)
 4. [Metadata Tags](#4-metadata-tags)
 5. [Exporting Files in Transkribus](#5-exporting-files-in-transkribus)
