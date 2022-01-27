@@ -162,7 +162,7 @@ It is tempting to tag everything, but not necessary! You only need to tag:
 3. If you want to provide further information as context (with a "comment").
 
 ## Metadata tags, defined.
-As a group, you will need to decide which tags you’ll use, and what their definitions will be.. Examples of tags and definitions that already exist in Transkribus include:
+As a group, you will need to decide which tags you’ll use, and what their definitions will be. Examples of tags and definitions that already exist in Transkribus include:
 1. person - when any person’s name is mentioned within the body of the letter (e.g. “Daddy,” Martha, Gilbert, etc.). You can also decide to tag people without names, i.e. “girl,” or “baby.”
 2. place - when a place name is mentioned within the body of the letter. This does not usually include general places like Sunday school or hospital. Examples would be town names like Bruce or Memphis. 
 3. organization - a specific group, corporation, or entity (e.g. the Senate, the T.V.A., or Ole Miss), not a generic place like hospital or school.
