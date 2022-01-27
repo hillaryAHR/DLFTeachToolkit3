@@ -115,7 +115,8 @@ Before we can ask Transkribus to read the handwriting, we have to ask it to iden
     ![merge error screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/merge-error-screenshot.png)
     
     - Sometimes the software will number things in a different order than we'd actually read them. Click on the eye in the top toolbar, and select _show lines reading order_. If the lines are out of order, click on the numbers to change them. 
-    1[line reading order screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/line-reading-order-screenshot.JPG)
+
+    ![line reading order screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/line-reading-order-screenshot.JPG)
 
 ## Check-in
 
