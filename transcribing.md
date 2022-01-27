@@ -226,7 +226,7 @@ When you click OK, Transkribus emails you a temporary link where you can access 
 
 ![extract files 1 screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/extract-files-1.JPG)
 
-Saving them as compressed files stores them to your computer, but does not let you access them until you extract them. Right-click your compressed folder and click Extract All... then tell your computer where you want to extract them to. I recommend saving them to a folder where you're keeping files for this class. (We will also store them on a cloud server, e.g. Google Drive or our Institutional Repository at some point.)
+Saving them as compressed files stores them to your computer, but does not let you access them until you extract them. Right-click your compressed folder and click Extract All... then tell your computer where you want to extract them to. I recommend saving them to a folder where you're keeping all related files together.
 
 ![extract files 2 screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/extract-files-2.JPG)
 
