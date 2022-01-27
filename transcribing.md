@@ -184,9 +184,13 @@ Depending on what’s in your collection, you may also decide to create custom t
 ![tag screenhot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/tag-screenshot.png)
 
 2. If the tag isn’t in the list, go to the metadata menu, then the Textual menu, and click Customize.
+
 ![customize tag screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/customize-tag.JPG)
+
 3. Click “Create new tag,” then type in the name of the tag, lowercase, like it’s shown in the Tag definitions document.
+
 ![create new tag screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/create-new-tag.JPG)
+
 ## Check-in
 Tags are tricky! Let's discuss some different scenarios.
 
