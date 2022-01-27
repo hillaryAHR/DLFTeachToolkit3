@@ -159,7 +159,7 @@ Think of tagging the letter like highlighting categories of information with a d
 It is tempting to tag everything, but not necessary! You only need to tag:
 1. Proper nouns (e.g. people, places, or organizations)
 2. When you add something for clarity that isn't there originally (e.g. "[illegible]").
-3. If you want to provide further information as context.
+3. If you want to provide further information as context (with a "comment").
 
 ## Metadata tags, defined.
 As a group, you will need to decide which tags you’ll use, and what their definitions will be.. Examples of tags and definitions that already exist in Transkribus include:
