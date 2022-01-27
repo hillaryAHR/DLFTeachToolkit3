@@ -73,7 +73,7 @@ Compare transcriptions and decide what the ideal transcript would look like.
 Fill out your project management tool (using either [the template](https://docs.google.com/spreadsheets/d/1L0EskmqzYTHwwZOxsRCGfEksq9m2i6UXDIha77SNKa4/edit?usp=sharing) or a chosen app) with the items you have to transcribe, and share the list with your groupmates.
 
 # 2. Text Regions in Transkribus
-Before we get started actually transcribing, we have to tell Transkribus what parts of the page have text on them, and what order to read that text! (Remember, computers aren't smart enough to read like humans!) The following is a basic step-by-step for the most common kinds of errors you’ll correct. 
+Before we get started actually transcribing, we have to tell Transkribus what parts of the page have text on them, and in what order to read that text! (Remember, computers aren't smart enough to read like humans!) The following is a basic step-by-step for the most common kinds of errors you’ll correct. 
 A full documentation of the Transkribus layout tools is [here](https://readcoop.eu/transkribus/howto/how-to-transcribe-documents-with-transkribus-introduction/#elementor-toc__heading-anchor-3)
  
 The text regions we will work with are:
