@@ -48,7 +48,6 @@ Keep it simple! You want people to be able to read the transcription without loo
 - Take a break and come back. Fresh eyes make a difference!
 - Try to read the words in context. The word might look like "fhe," but it doesn't make sense to read "And then fhe called her sister." You would realize the word is "she."
 - Ask for help. Send a screenshot to your classmates in your project management group or post it to a social media account for a second opinion.
-- Update task tracking tool
 - If you've tried all these things, and it's just not possible to figure out, write [illegible] in brackets and tag that text with the "gap" tag (more on tags in section IV!).
 ## Take notes while you are transcribing
 - Make note of things you don't understand, and Google them to see if you can make sense of the reference.
