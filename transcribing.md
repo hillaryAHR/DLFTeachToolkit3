@@ -62,7 +62,7 @@ While it is long, we recommend watching [this video](https://youtu.be/-cDD9P0rnL
 - Communicate with your team what you’ve done and what you need help with through notes and comments. Tag or notify people if something else needs addressing.
 
 ![screenshot of task in Asana](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/asana-screenshot-make-note.JPG)
-- To track your progress, you can create an account, or you can copy [this project management template in Google Sheets](https://docs.google.com/spreadsheets/d/1L0EskmqzYTHwwZOxsRCGfEksq9m2i6UXDIha77SNKa4/edit?usp=sharing) for your own use.
+- To track your progress, you can create an account with a task management software, or you can copy [this project management template in Google Sheets](https://docs.google.com/spreadsheets/d/1L0EskmqzYTHwwZOxsRCGfEksq9m2i6UXDIha77SNKa4/edit?usp=sharing) for your own use.
 ## Check-in
 Practice transcribing a few lines, staying true to the original text with the sample excerpt:
 
