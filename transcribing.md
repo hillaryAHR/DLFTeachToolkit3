@@ -112,7 +112,9 @@ Before we can ask Transkribus to read the handwriting, we have to ask it to iden
     ![no text layout error screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/no-text-layout-error.JPG)
     
     - This layout analysis split a line in two, and needs merging. (Sometimes, though less frequently, it will merge something that should be two lines. For this, use the scissor tools above the merge tool.) Holding control, click each region that needs joining (usually the baseline and the line) and then click merge. 
+    
     ![merge error screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/merge-error-screenshot.png)
+    
     - Sometimes the software will number things in a different order than we'd actually read them. Click on the eye in the top toolbar, and select _show lines reading order_. If the lines are out of order, click on the numbers to change them. 
     1[line reading order screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/line-reading-order-screenshot.JPG)
 
