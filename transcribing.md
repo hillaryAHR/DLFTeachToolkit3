@@ -18,7 +18,7 @@ In this module, you will learn to:
 5. [Exporting Files in Transkribus](#5-exporting-files-in-transkribus)
 
 ## Before you begin:
-Every person has preconceived beliefs that affect how they think and act - this is true for documents created by people a long time ago and for us, reading those documents. Those beliefs, or “bias,”  can sometimes contribute to the misinterpretation of information, and can skew characterizations of the content.  In reading these documents, be aware of potential biases that exist, and your own bias that might come into play as you transcribe and annotate the document with tags.Try to remain objective when assigning tags by following classification standard schedules, and when there’s room for interpretation, to remain as objective as possible to preserve the integrity of the original materials being described.  
+Every person has preconceived beliefs that affect how they think and act - this is true for documents created by people a long time ago and for us, reading those documents. Those beliefs, or “bias,”  can sometimes contribute to the misinterpretation of information, and can skew characterizations of the content.  In reading these documents, be aware of potential biases that exist, and your own bias that might come into play as you transcribe and annotate the document with tags. Try to remain objective when assigning tags by following classification standard schedules, and when there’s room for interpretation, to remain as objective as possible to preserve the integrity of the original materials being described.  
 
 ## Recommended Reading
 - More reading on transcribing
