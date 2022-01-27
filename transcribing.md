@@ -31,7 +31,7 @@ Every person has preconceived beliefs that affect how they think and act - this 
     - [Critical Path Method](https://www.workamajig.com/blog/critical-path-method)
 
 ## Installations
-- [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus): Installation Instructions [here](https://readcoop.eu/transkribus/wiki/download-and-installation/). (Be sure you have Java 8 installed before installing Transkribus. This is in the instructions, but not in the first step. If you run into an issue, email your instructor!) Transkribus Lite is the browser-based version of this, but as of this writing is still under development. We recommend downloading the free desktop version of this software.
+- [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus): Installation Instructions [here](https://readcoop.eu/transkribus/wiki/download-and-installation/). (Be sure you have Java 8 installed before installing Transkribus. This is in the instructions, but not in the first step.) Transkribus Lite is the browser-based version of this, but as of this writing is still under development. We recommend downloading the free desktop version of this software.
 - Project management: There are several browser-based options to keep track of your progress and communicate with team members the documents that you are working with. These tools can help keep multiple moving parts of a project in sync like keeping track of supplies, correspondence, and tasks needed to make it to completion:
     - [Asana](https://asana.com/) - for organizing and assigning tasks as well as mapping them out in a timeline to track progress and milestones.
     - [Trello](https://trello.com/) - allows you to visualize the tasks and focus needed, through lists and cards, to complete the project
