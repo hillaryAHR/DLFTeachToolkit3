@@ -204,7 +204,7 @@ Scenario 4: What is a scenario where a person or place is mentioned, but you mig
 
 Scenario 5: What’s an example of a time you might use the comment tag?
 
-Discuss: Does your collection warrant specific tags? Think about what you’d like to track or analyze, and list custom tags that would create points of connection for later analyses of the collection.
+Discuss: What tags would include in the excerpt from [Check-in 1](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing.md#check-in)? Does your collection warrant specific tags that aren't already in Transkribus? Think about what you’d like to track or analyze, and list custom tags that would create points of connection for later analyses of the collection.
 
 As a reminder, there is a video of transcribing a letter from beginning to end, which you can watch as a refresher: https://youtu.be/-cDD9P0rnLw.
 # 5. Exporting files in Transkribus
