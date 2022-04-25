@@ -74,7 +74,7 @@ Fill out your project management tool (using either [the template](https://docs.
 
 # 2. Text Regions in Transkribus
 Before we get started actually transcribing, we have to tell Transkribus what parts of the page have text on them, and in what order to read that text! (Remember, computers aren't smart enough to read like humans!) The following is a basic step-by-step for the most common kinds of errors you’ll correct. 
-A full documentation of the Transkribus layout tools is [here](https://readcoop.eu/transkribus/howto/how-to-transcribe-documents-with-transkribus-introduction/#elementor-toc__heading-anchor-3)
+A full documentation of the Transkribus layout tools is [here](https://readcoop.eu/transkribus/howto/how-to-transcribe-documents-with-transkribus-introduction/#elementor-toc__heading-anchor-3).
  
 The text regions we will work with are:
 
@@ -128,7 +128,7 @@ What button do you click on if Transkribus has ordered the lines in a different 
 
 Discuss: what is the purpose of layout recognition? Why does Transkribus need to know where text appears and what order lines are read in any way?
 # 3. Handwritten Text Recognition
-We are using the Transkribus software because it allows you to create Handwritten Text Recognition (HTR) models. This tool works with mixed results, depending on the quality of your letters and the style of handwriting. In this lesson, you will see the use of an HTR model that has had 2 years of training and different iterations, and is based on ~100 transcriptions. While there are models for different time periods and nationalities already in Transkribus, you may find that the algorithm does not work with your dataset as well as it should. We’ve provided a sample letter to use with the “Pauline 2.0” HTR model, but you may choose a different HTR model depending on what you need to transcribe. A full step-by-step guide for training and using HTR models is linked on Transkribus’ website [here](https://readcoop.eu/transkribus/howto/how-to-train-a-handwritten-text-recognition-model-in-transkribus/).
+We are using the Transkribus software because it allows you to create Handwritten Text Recognition (HTR) models. This tool works with mixed results, depending on the quality of your letters and the style of handwriting. In this lesson, you will see the use of an HTR model that has had 2 years of training and different iterations, and is based on ~100 transcriptions. While there are models for different time periods and nationalities already in Transkribus, you may find that the algorithm does not work with your dataset as well as it should. [We’ve provided a sample letter](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/mcj-dp018-19370125-smith_pauline.pdf) to use with the “Pauline 2.0” HTR model, but you may choose a different HTR model depending on what you need to transcribe. A full step-by-step guide for training and using HTR models is linked on Transkribus’ website [here](https://readcoop.eu/transkribus/howto/how-to-train-a-handwritten-text-recognition-model-in-transkribus/).
 
 Using a model on letters gives a more complete transcription to correct, rather than having to transcribe the letter from scratch, though transcribing from scratch is still an option.
 1. (To transcribe manually, skip to step 4.) To transcribe with the HTR model, click on the Tools tab, and under Text Recognition, select the model called “Pauline Smith 2.0.” You might have to navigate to the next page to find the Pauline Smith model.
@@ -138,7 +138,7 @@ Using a model on letters gives a more complete transcription to correct, rather 
 ![htr step 2 screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/htr-step2.png)
 
 2. Click Run. The HTR analysis may take anywhere from 20 seconds to 2 minutes. A notification that the “job” is done will pop up when analysis is complete. From there, correct the transcription.
-3. Transcribe each page as you see it, following Transkribus transcription guidelines. You may have a few errors on a page or there may be significant errors. It depends on several things - the quality of the scan, the quality of the document, the handwriting and what utensil they used, etc.!
+3. Transcribe each page as you see it, following [Transkribus transcription guidelines](https://readcoop.eu/transkribus/howto/how-to-transcribe-documents-with-transkribus-introduction/). You may have a few errors on a page or there may be significant errors. It depends on several things - the quality of the scan, the quality of the document, the handwriting and what utensil they used, etc.!
 4. To transcribe manually, use the layout analysis to begin typing each line as it’s written. You can use the enter key to move to each line. Moving to the next page will prompt you to save your work.
 
 ![htr corrections example screenshot](https://github.com/hillaryAHR/DLFTeachToolkit3/blob/main/transcribing-images/htr-corrections-example.png)
