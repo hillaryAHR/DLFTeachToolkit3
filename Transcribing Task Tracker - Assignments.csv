@@ -1,0 +1,8 @@
+,,,,,,,,
+,Task TRACKER,,"Add subjects or course to the 'Subjects' sheet. In this sheet, select your subject, add assignments, status, time required, when you plan to do it and when it's due.",,,,,
+,Subject,Item Description,Status,Transcribed,Tagged,Metadata,Completed on,Comments
+,,,,,,,,
+,Letter,Lorem ipsum dolor sit,Done,FALSE,FALSE,FALSE,4/24/2022,
+,Photograph,Duis autem vel eum iriure dolor in hendrerit in vulputate,Done,FALSE,FALSE,FALSE,4/27/2022,
+,Insert,At vero eos et accusam et justo duo dolores et ea rebum,In progress,FALSE,FALSE,FALSE,4/28/2022,
+,Other,Quis nostrud exerci tation ullamcorper,Not started,FALSE,FALSE,FALSE,4/29/2022,
